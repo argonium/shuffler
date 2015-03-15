@@ -1,4 +1,4 @@
-# shuffler
+# Shuffler
 Shuffler is a Java class that is used to randomize a list of objects. The input (call it numObjects) is an integer; this is the number of items in your list. The output is an array of integers of size numObjects, where the array contains the values between zero and (numObjects - 1). This array contains the indices to use when shuffling your list of objects. For example, if the input is 4, the output might be [2, 1, 3, 0].
 
 This class has only one method:
